@@ -10,3 +10,4 @@ menuconfig LED_SUBSYSTEM
     endif
     
     source "kconfig.zephyr"
+    rsource "drivers/our_driver/kconfig"

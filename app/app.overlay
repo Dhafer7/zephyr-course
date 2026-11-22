@@ -1,0 +1,6 @@
+/{
+	our_driver0: our-driver{
+		compatible= "our,driver";
+		status= "ok";
+	};
+};
